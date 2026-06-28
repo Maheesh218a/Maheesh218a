@@ -41,11 +41,13 @@ Software Engineering Undergraduate | Full-Stack Developer Intern @ DhiShi Scient
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
+
 ### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
+
 
 ### Database & Tools
 
@@ -60,23 +62,13 @@ Software Engineering Undergraduate | Full-Stack Developer Intern @ DhiShi Scient
 🚀 **Bookly - Online Book Store**  
 📚 Full-stack eCommerce application
 
+
 🚆 **Transport Management System**  
 🚌 Web-based transport solution
 
+
 🤖 **AI Automation Projects**  
 ⚡ Building smart automation workflows
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Maheesh218a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"
-/>
-
-</p>
 
 ---
 
