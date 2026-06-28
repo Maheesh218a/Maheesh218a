@@ -68,25 +68,15 @@ Software Engineering Undergraduate | Full-Stack Developer Intern @ DhiShi Scient
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Maheesh218a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Maheesh218a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0" />
 
 <br/>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh218a&theme=tokyonight"
-/>
-
-<br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Maheesh218a&theme=tokyo-night"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh218a&theme=tokyonight&cache_seconds=0" />
 
 </p>
 
