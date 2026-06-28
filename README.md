@@ -97,20 +97,14 @@ $ cat maheesha.json
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Currently
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheeshaUdalagama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheeshaUdalagama&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaheeshaUdalagama&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+```text
+🔨  Building      →  Full-stack apps at DhiShi Scientific
+📖  Learning      →  System design & scalable architecture
+🤖  Exploring     →  AI integrations & automation workflows
+🎯  Goal 2026     →  Ship 3 meaningful open-source projects
+```
 
 ---
 
