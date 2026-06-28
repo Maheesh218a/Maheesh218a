@@ -36,16 +36,19 @@ Software Engineering Undergraduate | Full-Stack Developer Intern @ DhiShi Scient
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
 ### Database & Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
 </p>
@@ -65,10 +68,26 @@ Software Engineering Undergraduate | Full-Stack Developer Intern @ DhiShi Scient
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Maheesh218a&show_icons=true&theme=tokyonight" />
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Maheesh218a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
+
+<br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh218a&theme=tokyonight"
+/>
+
+<br/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Maheesh218a&theme=tokyo-night"
+/>
+
 </p>
 
 ---
@@ -94,6 +113,7 @@ Software Engineering Undergraduate | Full-Stack Developer Intern @ DhiShi Scient
 </a>
 
 </p>
+
 
 <p align="center">
 
